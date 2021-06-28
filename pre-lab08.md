@@ -1,7 +1,6 @@
-# 实验二 创建 ACR
+# Lab08 实验前准备：创建一个 Azure Container Registry
 
 ## 1. 登录到 Azure
-请参考 [登录到 Azure](https://github.com/maping/azure-workshops-cn/blob/master/env/sign-in-azure.md#%E7%99%BB%E5%BD%95%E5%88%B0-azure)
 
 ## 2. 创建 ACR 资源组
 ```console
