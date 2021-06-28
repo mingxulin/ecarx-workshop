@@ -1,4 +1,4 @@
-# Lab05 创建 Ubuntu VM：JDK 11 + Tomcat 9
+# Lab05 实验前准备：创建 Ubuntu VM：JDK 11 + Tomcat 9
 
 ## 1. 登录到 Azure
 
