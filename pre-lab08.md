@@ -22,7 +22,7 @@ Login Succeeded
 >重要: 如果用 az acr login 有问题，可以用 docker login 登录 ACR。
 ```console
 $ docker login <Your-ACR-Login-Server> -u <Your-ACR-Username> -p <Your-ACR-Password>
-$ docker login mwitacrkoreacentral.azurecr.io -u mwitacrkoreacentral -p QqDOWbDRTkWEq1a96kJKFYnw0=5Z0EUl
+$ docker login mwitacrkoreacentral.azurecr.io -u mwitacrkoreacentral -p XXXXXXXXXXX
 WARNING! Using --password via the CLI is insecure. Use --password-stdin.
 Login Succeeded
 ```
