@@ -4,7 +4,7 @@
 
 ## 2. 动手实验
 
-- Lab01：了解 java-calculator-web-app Project
+- Lab01：[了解 java-calculator-web-app Project](https://github.com/maping/java-calculator-web-app)
 - Lab02：Azure DevOps Service 概览
 - Lab03：创建 Organization、Project
 - Lab04：创建第 1 个 Pipeline：java-calculator-web-app-Maven-CI
