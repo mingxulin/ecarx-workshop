@@ -13,9 +13,9 @@
 - Lab05：创建第 2 个 Pipeline：java-calculator-web-app-Maven-CI&CD
   - Lab05 实验前准备：创建一个 Tomcat Server VM
 - Lab06：创建第 3 个 Pipeline：java-calculator-web-app-Maven-Deploy
-- Lab07：创建第 4 个 Pipeline：java-calculator-web-app-Docker-CI
-  - Lab07 实验前准备：创建一个 Azure Container Registry
-- Lab08：创建第 5 个 Pipeline：java-calculator-web-app-Docker-CI&CD
-  - Lab08 实验前准备：创建一个 Azure Kubernetes Service
-- Lab09：创建第 6 个 Pipeline：java-calculator-web-app-Release
+- Lab07：创建第 4 个 Pipeline：java-calculator-web-app-Release
+- Lab08：创建第 5 个 Pipeline：java-calculator-web-app-Docker-CI
+  - Lab08 实验前准备：创建一个 Azure Container Registry
+- Lab09：创建第 6 个 Pipeline：java-calculator-web-app-Docker-CI&CD
+  - Lab09 实验前准备：创建一个 Azure Kubernetes Service
 - Lab10：创建第 7 个 Pipeline：java-calculator-web-app-Docker-Release
